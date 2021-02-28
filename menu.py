@@ -1,6 +1,9 @@
+# Used sources: Python 3 Object-oriented Programming Second Edition , Dusty Phillips, 2015
+
 """Module with menu functions"""
 
 import sys
+
 from my_notebook import Notebook
 
 
